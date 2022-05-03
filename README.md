@@ -35,16 +35,3 @@
 일상의 문제를 기술적으로 해결하는 데 관심이 있습니다.
 IT기술을 통해 보다 나은 세상을 꿈꿉니다.
 
-
-
-All the possible classes are defined above and just referenced in the `className` attribute of each element. This comes with a couple benefits:
-
-1. It keeps the overall component definition slightly cleaner (i.e. there isn't a huge class string)
-2. You can reuse styles a little easier
-3. This still qualifies as purgeable HTML (assuming the class is actually used)
-
-This is however just a recommendation, the template allows you to write the components in any way you wish.
-
-## License
-
-Licensed under the [MIT License](https://github.com/RyanFitzgerald/devfolio/blob/master/LICENSE.md).
