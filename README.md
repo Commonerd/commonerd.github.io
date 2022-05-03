@@ -13,6 +13,8 @@
 - Back End : Java
 - API : 카카오맵 API
 
+- DB 테이블
+![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyotable.png)
 
 ### 기술설명 및 핵심내용
 
@@ -26,9 +28,16 @@
 - 미디어픽 : 방송에 나온 맛집 소개, 앨범형 리스트 구현, 페이지네이션
 - 푸드스토리 : 음식의 유래와 효능, 앨범형 리스트 구현, 페이지네이션
 
+- 맛집상세페이지 
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyodetail.png)
+
+- 랜덤메뉴추천
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyorandom.png)
+
+- 맛집위시리스트
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyowishlist.png)
+
+- 회원가입
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyojoin.png)
 
 ### About Me
