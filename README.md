@@ -1,4 +1,4 @@
-# 조회수 기반 맛집추천 사이트, 야미요(Yummyo)
+# 조회수와 좋아요수 기반 맛집추천 사이트, 야미요(Yummyo)
 
 ![Preview](https://user-images.githubusercontent.com/9112801/96329524-c8906600-101b-11eb-8fd8-4d45e7f0cd1b.jpg)
 
