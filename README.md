@@ -12,7 +12,7 @@
 - Front End : Html5, Css3, Javascript
 - Back End : Java
 - API : 카카오맵 API
-
+   
 - DB 테이블
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyotable.png)
 
@@ -26,8 +26,8 @@
 - 맛집상세페이지: 위도와 경도를 이용한 kakao map API 구현, 스마트에디터를 활용한 음식 사진 정보, 위시리스트 등록, 좋아요, 해시태그, 맛집수정, 맛집삭제 기
 - 공지사항 : 글등록, 수정, 삭제
 - 미디어픽 : 방송에 나온 맛집 소개, 앨범형 리스트 구현, 페이지네이션
-- 푸드스토리 : 음식의 유래와 효능, 앨범형 리스트 구현, 페이지네이션
-
+- 푸드스토리 : 음식의 유래와 효능, 앨범형 리스트 구현, 페이지네이션   
+   
 - 맛집상세페이지 
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyodetail.png)
 
@@ -40,9 +40,4 @@
 - 회원가입
 ![Preview](https://github.com/Commonerd/commonerd.github.io/blob/master/yummyojoin.png)
 
-### About Me
-
-소통을 통해 동반성장을 추구합니다.
-일상의 문제를 기술적으로 해결하는 데 관심이 있습니다.
-IT기술을 통해 보다 나은 세상을 꿈꿉니다.
 
