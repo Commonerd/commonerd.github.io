@@ -1,4 +1,5 @@
 # 조회수와 좋아요수 기반 맛집추천 사이트, 야미요(Yummyo)   
+    
 <img src="https://github.com/Commonerd/commonerd.github.io/blob/master/yummyomain.png" width="70%" height="50%"></img>
 - 프로젝트 주제 및 목적 : 조회수와 좋아요 수를 기반으로 한 맛집 추천사이트
 - 본인의 역할 : 메인페이지, 맛집 상세페이지, 위시리스트, 로그인/회원가입
@@ -32,17 +33,21 @@
    
    
 - 맛집상세페이지    
+    
 <img src="https://github.com/Commonerd/commonerd.github.io/blob/master/yummyodetail.png" width="70%" height="50%"></img>
 
 
-- 랜덤메뉴추천    
+- 랜덤메뉴추천     
+    
 <img src="https://github.com/Commonerd/commonerd.github.io/blob/master/yummyorandom.png" width="70%" height="50%"></img>
 
 
 - 맛집위시리스트    
+    
 <img src="https://github.com/Commonerd/commonerd.github.io/blob/master/yummyowishlist.png" width="70%" height="50%"></img>
 
 
 - 회원가입    
+    
 <img src="https://github.com/Commonerd/commonerd.github.io/blob/master/yummyojoin.png" width="70%" height="50%"></img>
 
